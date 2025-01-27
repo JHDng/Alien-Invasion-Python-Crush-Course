@@ -11,7 +11,7 @@ Alien Invasion is a 2D arcade-style game where players control a spaceship to de
 ## 🕹️Play the game!
 Clone the repository:
 ```rb
-$ git clone [https://github.com/JHDng/Aliens-Python-CrashCourse]
+$ git clone https://github.com/JHDng/Aliens-Python-CrashCourse
 $ cd Alien-Invasion-Python-Crush-Course
 $ cd Scripts
 ```
